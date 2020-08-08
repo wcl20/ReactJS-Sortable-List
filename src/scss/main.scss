@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Sortable List */
+
+ul {
+  margin: 0;
+  padding: 10px 20px;;
+  list-style: none;
+  border-radius: 5px;
+  background-color: #555;
+  width: 400px;
+}
+
+li {
+  padding: 30px;
+  margin: 20px 0;
+  text-align: center;
+  background: white;
+  border-radius: 5px;
+}
